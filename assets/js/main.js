@@ -89,6 +89,7 @@ $(document).ready(function () {
             },
             error: function() {
                 body.html('Não foi possível concluir sua transação.');
+                footer.removeClass('d-none');
             }
         });
     });
@@ -154,6 +155,7 @@ $(document).ready(function () {
             },
             error: function() {
                 body.html('Não foi possível concluir sua transação.');
+                footer.removeClass('d-none');
             }
         });
     });

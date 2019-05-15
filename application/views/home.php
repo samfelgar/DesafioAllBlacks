@@ -43,16 +43,18 @@
 <?php endif; ?>
 <div class="row">
     <div class="col-sm form-group">
-        <table class="table table-sm table-hover table-responsive-sm data-table">
-            <thead>
-                <th>Nome</th>
-                <th>Documento</th>
-                <th>UF</th>
-                <th>Telefone</th>
-                <th>E-mail</th>
-                <th>Ativo</th>
-                <th>&nbsp</th>
-            </thead>
-        </table>
+        <div class="table-responsive-sm">
+            <table class="table table-sm table-hover data-table">
+                <thead>
+                    <th>Nome</th>
+                    <th>Documento</th>
+                    <th>UF</th>
+                    <th>Telefone</th>
+                    <th>E-mail</th>
+                    <th>Ativo</th>
+                    <th style="width: 100px;">&nbsp</th>
+                </thead>
+            </table>
+        </div>
     </div>
 </div>
