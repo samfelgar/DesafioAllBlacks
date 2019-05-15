@@ -10,6 +10,6 @@ O script para o banco de dados é o **./allblacks.sql**.
 
 Também foram utilizadas algumas dependências, que devem ser instaladas via Composer.
 
-Para o envio dos e-mails, foi utilizado o Fake SMTP Server, servindo na porta 25, disponível [aqui](http://nilhcem.com/FakeSMTP/).
+Para teste do envio dos e-mails, foi utilizado o Fake SMTP Server, servindo na porta 25, disponível [aqui](http://nilhcem.com/FakeSMTP/).
 
 **Samuel Felipe**
