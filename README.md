@@ -13,3 +13,5 @@ Também foram utilizadas algumas dependências, que devem ser instaladas via Com
 Para teste do envio dos e-mails, foi utilizado o Fake SMTP Server, servindo na porta 25, disponível [aqui](http://nilhcem.com/FakeSMTP/).
 
 **Samuel Felipe**
+
+**PS** Esqueci de enviar também meu currículo no formulário de inscrição. Ele está disponível [aqui](https://docs.google.com/document/d/1eajtFWo5fN9474LXkBpCgeWt-i4T1FY-QM7xQt-b5XE/edit?usp=sharing).
